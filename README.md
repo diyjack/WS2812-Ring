@@ -20,8 +20,8 @@ Shop:
 
 
 ## Hardware
-* [Schematics + Layout](https://github.com/watterott/ WS2812-Ring/tree/master/pcb)
-* Datasheet: [WS2812B](https://github.com/watterott/ WS2812-Ring/raw/master/pcb/WS2812B.pdf)
+* [Schematics + Layout](https://github.com/watterott/WS2812-Ring/tree/master/pcb)
+* Datasheet: [WS2812B](https://github.com/watterott/WS2812-Ring/raw/master/pcb/WS2812B.pdf)
 * Note: for protection connect a >= 300 ohm resistor between the LED data input and controller output pin.
 
 
