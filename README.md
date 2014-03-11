@@ -10,7 +10,7 @@ Shop:
 [Ring 40](http://www.watterott.com/en/WS2812B-RGB-Ring-40), 
 [Ring 60](http://www.watterott.com/en/WS2812B-RGB-Ring-60)
 
-![WS2812-Ring](https://raw.github.com/watterott/WS2812-Ring/master/img/ws2812-ring.jpg.jpg)
+![WS2812-Ring](https://raw.github.com/watterott/WS2812-Ring/master/img/ws2812-ring.jpg)
 
 
 ## Features
