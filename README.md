@@ -14,7 +14,7 @@ Shop:
 
 
 ## Features
-* RGB-LED with 16777216 colors and built-in controller with serial interface
+* WS2812 RGB-LED with 16777216 colors and built-in controller with serial interface
 * 3 pin connection: VCC, GND, Data
 * Controllable with Adafruit NeoPixel Library
 
