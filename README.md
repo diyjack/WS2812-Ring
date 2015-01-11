@@ -10,7 +10,7 @@ Shop:
 [Ring 40](http://www.watterott.com/en/WS2812B-RGB-Ring-40), 
 [Ring 60](http://www.watterott.com/en/WS2812B-RGB-Ring-60)
 
-![WS2812-Ring](https://raw.github.com/watterott/WS2812-Ring/master/img/ws2812-ring.jpg)
+![WS2812-Ring](https://raw.github.com/watterott/WS2812-Ring/master/pcb/WS2812-Ring_v10.jpg)
 
 
 ## Features
@@ -21,7 +21,7 @@ Shop:
 
 ## Hardware
 * [Schematics + Layout](https://github.com/watterott/WS2812-Ring/tree/master/pcb)
-* Datasheet: [WS2812B](https://github.com/watterott/WS2812-Ring/raw/master/pcb/WS2812B.pdf)
+* Datasheet: [WS2812B](https://github.com/watterott/WS2812-Breakout/raw/master/pcb/WS2812B.pdf)
 * Note: for protection connect a >= 300 ohm resistor between the LED data input and controller output pin.
 
 
