@@ -1,16 +1,18 @@
 # WS2812-Ring
 Ring with 8/12/16/24/32/40/60 WS2812B intelligent RGB-LEDs.
 
-Shop: 
-[Ring 8](http://www.watterott.com/en/WS2812B-RGB-Ring-8), 
-[Ring 12](http://www.watterott.com/en/WS2812B-RGB-Ring-12), 
-[Ring 16](http://www.watterott.com/en/WS2812B-RGB-Ring-16), 
-[Ring 24](http://www.watterott.com/en/WS2812B-RGB-Ring-24), 
-[Ring 32](http://www.watterott.com/en/WS2812B-RGB-Ring-32), 
-[Ring 40](http://www.watterott.com/en/WS2812B-RGB-Ring-40), 
-[Ring 60](http://www.watterott.com/en/WS2812B-RGB-Ring-60)
-
 ![WS2812-Ring](https://raw.github.com/watterott/WS2812-Ring/master/pcb/WS2812-Ring_v10.jpg)
+
+
+## Shop
+* [WS2812-Ring 8 (white)](http://www.watterott.com/en/WS2812B-RGB-Ring-8), [WS2812-Ring 8 (black)](http://www.watterott.com/en/WS2812-RGB-Ring-8-Black-Edition)
+* [WS2812-Ring 12 (white)](http://www.watterott.com/en/WS2812B-RGB-Ring-12), [WS2812-Ring 12 (black)](http://www.watterott.com/en/WS2812-RGB-Ring-12-Black-Edition)
+* [WS2812-Ring 16 (white)](http://www.watterott.com/en/WS2812B-RGB-Ring-16), [WS2812-Ring 16 (black)](http://www.watterott.com/en/WS2812-RGB-Ring-16-Black-Edition)
+* [WS2812-Ring 24 (white)](http://www.watterott.com/en/WS2812B-RGB-Ring-24), [WS2812-Ring 24 (black)](http://www.watterott.com/en/WS2812-RGB-Ring-24-Black-Edition)
+* [WS2812-Ring 32 (white)](http://www.watterott.com/en/WS2812B-RGB-Ring-32), [WS2812-Ring 32 (black)](http://www.watterott.com/en/WS2812-RGB-Ring-32-Black-Edition)
+* [WS2812-Ring 40 (white)](http://www.watterott.com/en/WS2812B-RGB-Ring-40), [WS2812-Ring 40 (black)](http://www.watterott.com/en/WS2812-RGB-Ring-40-Black-Edition)
+* [WS2812-Ring 60 (white)](http://www.watterott.com/en/WS2812B-RGB-Ring-60), [WS2812-Ring 60 (black)](http://www.watterott.com/en/WS2812-RGB-Ring-60-Black-Edition)
+* [WS2812-Ring Set (white)](http://www.watterott.com/en/WS2812B-RGB-Ring-Set), [WS2812-Ring Set (black)](http://www.watterott.com/en/WS2812-RGB-Ring-Set-Black-Edition)
 
 
 ## Features
